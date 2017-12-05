@@ -1,0 +1,6 @@
+framework module Pods_RM35605 {
+  umbrella header "Pods-RM35605-umbrella.h"
+
+  export *
+  module * { export * }
+}
